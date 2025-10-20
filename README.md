@@ -1,12 +1,12 @@
-1. Project Idea
+1. Project Idea <br />
 This project is a mobile application for managing basketball teams, players, transfers, and training sessions. Coaches and managers can easily organize their teams, track player details, record transfers, and schedule training sessions. The app is simple to use and supports both online and offline functionality — allowing users to make changes anytime. Once an internet connection is available, all local updates are synced automatically with the server to keep information consistent.
 
-2. Domain Details
-Entities
+3. Domain Details
+Entities 
 Team
 •	TeamID – unique identifier for each team.
 •	Name – name of the basketball team (required).
-•	City – city where the team is based.
+•	City – city where the team is based. 
 •	CoachName – name of the team’s coach.
 •	Budget – total financial budget of the team.
 Player
