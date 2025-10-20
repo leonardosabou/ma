@@ -1,3 +1,7 @@
+Everything that is in here is also in a Word document inside Project Idea folder for better readability.  <br />
+<br />
+<br />
+<br />
 1. Project Idea <br />
 This project is a mobile application for managing basketball teams, players, transfers, and training sessions. Coaches and managers can easily organize their teams, track player details, record transfers, and schedule training sessions. The app is simple to use and supports both online and offline functionality — allowing users to make changes anytime. Once an internet connection is available, all local updates are synced automatically with the server to keep information consistent. <br />
 <br />
